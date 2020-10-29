@@ -1,1 +1,1 @@
-# Hotel-Project
+# hotel_laravel_project
